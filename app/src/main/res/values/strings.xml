@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="ç">Ç</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="ğ">Ğ</string>
+    <string name="h">H</string>
+    <string name="ı">I</string>
+    <string name="i">İ</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="ö">Ö</string>
+    <string name="p">P</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="ş">Ş</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="ü">Ü</string>
+    <string name="v">V</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+
+    <string-array name="words">
+        <item>bilgisayar</item>
+        <item>yazilim</item>
+        <item>android</item>
+        <item>mirac</item>
+        <item>gokatalay</item>
+        <item>firat</item>
+        <item>futbol</item>
+        <item>basketbol</item>
+        <item>fenerbahce</item>
+        <item>galatasaray</item>
+        <item>besiktas</item>
+        <item>turkiye</item>
+        <item>telefon</item>
+        <item>monitor</item>
+        <item>oyun</item>
+        <item>kotlin</item>
+        <item>android</item>
+        <item>portakal</item>
+        <item>bardak</item>
+        <item>tabak</item>
+        <item>parlak</item>
+        <item>tencere</item>
+        <item>pencere</item>
+        <item>gitar</item>
+        <item>kedi</item>
+        <item>kopek</item>
+        <item>orangutan</item>
+        <item>maymun</item>
+        <item>fantastik</item>
+        <item>haberlesme</item>
+        <item>fanatik</item>
+        <item>dedektif</item>
+        <item>bagimlilik</item>
+        <item>kutu</item>
+        <item>ayna</item>
+        <item>elma</item>
+        <item>armut</item>
+        <item>tablet</item>
+        <item>kalem</item>
+        <item>kitap</item>
+        <item>defter</item>
+        <item>silgi</item>
+        <item>televizyon</item>
+    </string-array>
+</resources>
